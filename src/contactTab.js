@@ -1,3 +1,5 @@
+import './style.css';
+
 export default function addContactTabContent() {
     const container = document.querySelector('.container');
     const span = document.createElement('span');

@@ -1,3 +1,5 @@
+import './style.css';
+
 export default function addHomeTabContent() {
     const container = document.querySelector('.container');
     const description = document.createElement('div');

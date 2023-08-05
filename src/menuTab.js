@@ -1,3 +1,5 @@
+import './style.css';
+
 export default function addMenuTabContent() {
     const container = document.querySelector('.container');
 
