@@ -4,7 +4,6 @@ export default function addContactTabContent() {
     const container = document.querySelector('.container');
     const span = document.createElement('span');
     const ul = document.createElement('ul');
-    const li = document.createElement('li');
 
     container.classList.remove('menu-grid');
     container.classList.add('contact');
